@@ -8,7 +8,7 @@
    **E-mail:** katerina.19@tut.by
 
    **skype:** kate.19.11 
-   
+
    [LinkedIn](https://www.linkedin.com/in/kapeika-katerina-b97418167/)
 ---
 ## About Me
@@ -33,7 +33,7 @@ Development of a structural scheme of structures, collection of loads, calculati
 ### Languages:
 * Russian
 * English - A1 (A2 in progress)
-* Belarusian - native 
+* Belarusian - native
 ---
 ## Code Examples:
 ---
