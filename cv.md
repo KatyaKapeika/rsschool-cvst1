@@ -4,8 +4,11 @@
 ---
 ## Contact information:
    **Phone:** +375295510862
+
    **E-mail:** katerina.19@tut.by
-   **skype:** kate.19.11   
+
+   **skype:** kate.19.11 
+   
    [LinkedIn](https://www.linkedin.com/in/kapeika-katerina-b97418167/)
 ---
 ## About Me
@@ -31,4 +34,11 @@ Development of a structural scheme of structures, collection of loads, calculati
 * Russian
 * English - A1 (A2 in progress)
 * Belarusian - native 
+---
+## Code Examples:
+---
+        function even_or_odd(number) {
+         if (number %2==0) return ('Even');
+                      else return ('Odd');
+                }
 ---
