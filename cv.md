@@ -33,7 +33,7 @@ Development of a structural scheme of structures, collection of loads, calculati
 ### Languages:
 * Russian
 * English - A1 (A2 in progress)
-* Belarusian - native 
+* Belarusian - native
 ---
 ## Code Examples:
 ---
